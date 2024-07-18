@@ -66,5 +66,13 @@ body{
     cursor: pointer;
     padding: 10px 20px;
     display: block;
+}
+.hidden{
     display: none;
+}
+.correct{
+    background: #9aeabc ;
+}
+.incorrect{
+    background: #ff9393;
 }
